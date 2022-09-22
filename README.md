@@ -1,0 +1,2 @@
+# Generating-Fake-Anime-Images-using-GANs-
+Designed and trained a model using PyTorch which takes a set of real images and generates some fake images which are similar to real images. – Used MNIST dataset to train our model. – Define a discriminator to differentiate between real and generated images, define a generator to generate images, then train the discriminator and generator and then finally train our complete model. – Model got an accuracy of around 87%
